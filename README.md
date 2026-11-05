@@ -8,7 +8,7 @@
 * Camera ➡️ Camera Attributes ➡️ CameraAttributesPhysical (or CameraAttributesPractical)
 ### Troubleshooting / Solutions
 * My lighting is way overlit or looks bad.
-  * Unreal uses physical light units by default, godot does not: [Follow this guide](https://docs.godotengine.org/en/stable/tutorials/3d/physical_light_and_camera_units.html)
+  * Unreal uses physical light units by default, godot does not. Follow the Project Settings above and [use this guide](https://docs.godotengine.org/en/stable/tutorials/3d/physical_light_and_camera_units.html)
 * Some assets are missing!
   * Unreal to Godot Exporter sometimes has trouble exporting combined Actors.
   * [Unpack Blueprints on Fab](https://www.fab.com/listings/8491266d-c03b-4333-9675-cc8c73c83227) can extract these into their primitives (Actor ➡️ to individual meshes, lights). 
