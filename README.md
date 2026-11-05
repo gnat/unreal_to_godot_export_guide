@@ -15,3 +15,5 @@
     *  Remember to add `Actor` to `EUBP_UnpackBlueprints` ➡️ `Supported Classes`
     *  Content Browser ➡️ `EUBP_UnpackBlueprints` ➡️ RMB ➡️ Run Editor Utility Blueprint
     *  In Outliner, sort by Type, select all Actors ➡️ RMB ➡️ Scripted Actor Actions ➡️ Unpack Blueprint
+* Some polygons are missing!
+  * Choose the "Export Original Mesh" option in Godot To Unreal when exporting.
