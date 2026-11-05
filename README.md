@@ -17,3 +17,9 @@
     *  In Outliner, sort by Type, select all Actors ➡️ RMB ➡️ Scripted Actor Actions ➡️ Unpack Blueprint
 * Some polygons are missing!
   * Choose the "Export Original Mesh" option in Godot To Unreal when exporting.
+* Animations don’t have the same length in Godot.
+  * Set the SpeedScale in Godot equal to the Rate Scale in Unreal
+  * <img width="370" height="730" alt="image" src="https://github.com/user-attachments/assets/9d6734a0-4285-4274-b224-dcedc6db0493" /> <img width="320" height="287" alt="image" src="https://github.com/user-attachments/assets/0067a5f3-4521-4ba2-91bd-e4264b0bbfc1" />
+
+### For an extended Troubleshooting guide, see the [Godot To Unreal FAQ](https://docs.google.com/document/d/1t8GGcjhQlY35BiFBXx6k1mkZnB9qQp7dsLdcU59c6_Q/)
+
