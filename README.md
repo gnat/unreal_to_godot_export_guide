@@ -4,8 +4,8 @@
 * [UnrealToGodot](https://github.com/vortechU/UnrealToGodot) 🟢 Free 🔴 Cannot export full scenes- individual meshes only.
 ### Godot Project Settings
 * Project Settings ➡️ Rendering ➡️  Lights And Shadows ➡️ Use Physical Light Units
-* WorldEnvironment ➡️ Camera Attributes ➡️ CameraAttributesPhysical (or CameraAttributesPractical)
-* Camera ➡️ Camera Attributes ➡️ CameraAttributesPhysical (or CameraAttributesPractical)
+* WorldEnvironment ➡️ Camera Attributes ➡️ CameraAttributesPractical OR CameraAttributesPhysical
+* Camera ➡️ Camera Attributes ➡️ CameraAttributesPractical OR CameraAttributesPhysical
 ### Troubleshooting / Solutions
 * My lighting is way overlit or looks bad.
   * Unreal uses physical light units by default, godot does not. Follow the Project Settings above and [use this guide](https://docs.godotengine.org/en/stable/tutorials/3d/physical_light_and_camera_units.html)
